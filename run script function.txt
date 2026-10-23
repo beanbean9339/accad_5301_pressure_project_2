@@ -1,0 +1,1 @@
+py -3.11 "C:\Users\beanb\Desktop\TouchDesigner Projects\accad 5301\pressure_project2_IL\whipser_worker.py"
